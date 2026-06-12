@@ -12,7 +12,7 @@ class Solution:
         return []
 
     
-
+#Test Cases    
 solution = Solution()
 #TC1 - [0,1]
 print(solution.twoSum([2,7,11,15], 9))
